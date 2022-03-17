@@ -6,6 +6,7 @@ public class JavaKonfliktusKezeles2 {
 
     public static void main(String[] args) {
 
+
         String nev1;
         String nev2; 
         String nev3 = "D.N."; 
@@ -13,4 +14,5 @@ public class JavaKonfliktusKezeles2 {
                 
     }
     
+
 }
