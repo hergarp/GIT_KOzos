@@ -8,7 +8,7 @@ public class JavaKonfliktusKezeles2 {
         String nev1;
         String nev2 = "Sz.E.";
         String nev3;
-        String nev4;
+        String nev4 = "HP" ;
     }
     
 }
